@@ -24,5 +24,7 @@
 3. Navigate to this folder and run `npm test`.
 
 #### Deployed Link
+https://dino3drill.herokuapp.com/
 
 #### Framework of choice
+React

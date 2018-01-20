@@ -26,5 +26,7 @@
 #### Deployed Link
 https://dino3drill.herokuapp.com/
 
+The tests all pass on localhost but at the heroku page(the exact same code) Cypress gives an error(SecurityError: Blocked a frame with origin "https://dino3drill.herokuapp.com" from accessing a cross-origin frame.) because of security settings:https://docs.cypress.io/guides/guides/web-security.html#
+
 #### Framework of choice
 React
